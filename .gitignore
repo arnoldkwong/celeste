@@ -1,0 +1,20 @@
+/target/
+
+#eclipse
+.classpath
+.project
+.settings/
+.externalToolBuilders/
+
+#node/npm/react
+build
+coverage
+node_modules
+npm-debug.log
+
+#System
+.DS_Store
+
+#jest tests
+**/coverage
+
